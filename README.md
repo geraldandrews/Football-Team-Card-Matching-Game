@@ -1,1 +1,5 @@
-Football themed card matching game consisting of a few local, college, and NFL teams with html, css, and javascript.
+# Card Matching Game
+### Live Site: https://gerald2399.github.io/Football-Team-Card-Matching-Game/
+
+## Description
+This is a football team themed card matching game project I created using HTML, CSS, and Javascript.
