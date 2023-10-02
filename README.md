@@ -1,5 +1,5 @@
 # Card Matching Game
-### Live Site: https://geraldandrews.github.io/Football-Team-Card-Matching-Game/
+### Live Site: https://teammatchinggame.netlify.app/
 
 ### Project Description: Personal
 ### Programs Used: HTML, CSS, and JavaScript
